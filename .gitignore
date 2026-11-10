@@ -1,0 +1,17 @@
+build/
+out/
+.vs/
+.idea/
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+Testing/
+vcpkg_installed/
+*.exe
+*.obj
+*.o
+*.pdb
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
